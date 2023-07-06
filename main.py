@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 
 # Module for reading CSV files
@@ -44,3 +45,14 @@ print(Candidate_list)
 print(Candidate_Votes)
 print(Candidate_Percentages)
 print(Winning_Candidate)
+=======
+Election Results 
+-------------------------
+Total Votes: 369711
+-------------------------
+Charles Casper Stockham: 23.049% (85213)
+Diana DeGette: 73.812% (272892)
+Raymon Anthony Doane: 3.139% (11606)
+-------------------------
+Winner: Diana DeGette
+>>>>>>> 30712ce9127bba057681a646d7e1f1be649d4043
